@@ -5,7 +5,7 @@
    
    <h2 align="center">  Hi there, I'm Furkan 👋 </h2>
    
-  <h4 align="center" > I'm Computer Engineering Student at İstanbul Health and Technology Universtiy</h4> <br>
+  <h4 align="center" > I'm Computer Engineering Student at İstanbul Health and Technology University</h4> <br>
   
   
 
