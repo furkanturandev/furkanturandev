@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">✨ My interests: Cyber Security, AR, Web, Mobile App Development.<br>🧑‍💻 I'm currently learning Flutter.<br>🌐 I'm based in Istanbul/Turkey.<br>🏢 Computer Engineering Student at Istanbul Health and Technology University<br><br>📨 You can contact with me : <br>linkedin.com/in/furkanturandev <br>turan.fn@gmail.com</p>
+<p align="left">🏢 Computer Engineering Student at Istanbul Health and Technology University.<br>🌐 I'm based in Istanbul/Turkey.<br>✨ My interests: Cyber Security, AR, Web, Mobile App Development.<br>🧑‍💻 I'm currently learning Flutter.<br><br>📨 You can contact with me : <br>linkedin.com/in/furkanturandev <br>turan.fn@gmail.com</p>
 
 ###
 
