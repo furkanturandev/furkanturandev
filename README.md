@@ -1,7 +1,7 @@
 # [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=1600&pause=600&color=00E103&center=yanl%C4%B1%C5%9F&vCenter=yanl%C4%B1%C5%9F&multiline=true&repeat=do%C4%9Fru&width=435&height=85&lines=%3E_+Hello+World+;%3E_+I'm+Furkan+TURAN+)](https://git.io/typing-svg)
    
 
-   
+   <!--
    
  <h2 align="center">Hi there, I'm Furkan 👋</h2>
 
@@ -10,12 +10,13 @@
 <h4 align="center">I'm Computer Engineering Student at Istanbul Health and Technology University</h4>
 
 ###
+-->
 
 <h2 align="left">About me</h2>
 
 ###
 
-<p align="left">✨ My interests: Cyber Security, AR, Web, Mobile App Development.<br>🧑‍💻 I'm currently learning Flutter.<br>🌐 I'm based in Istanbul/Turkey.<br><br>📨 You can contact with me : <br>linkedin.com/in/furkanturandev <br>turan.fn@gmail.com</p>
+<p align="left">✨ My interests: Cyber Security, AR, Web, Mobile App Development.<br>🧑‍💻 I'm currently learning Flutter.<br>🌐 I'm based in Istanbul/Turkey.<br>🏢 Computer Engineering Student at Istanbul Health and Technology University<br>📨 You can contact with me : <br>linkedin.com/in/furkanturandev <br>turan.fn@gmail.com</p>
 
 ###
 
