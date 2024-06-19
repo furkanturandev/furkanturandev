@@ -1,4 +1,4 @@
-# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=1600&pause=600&color=00E103&center=yanl%C4%B1%C5%9F&vCenter=yanl%C4%B1%C5%9F&multiline=true&repeat=do%C4%9Fru&width=435&height=85&lines=%3E_+Hello+World+;%3E_+I'm+Furkan+TURAN+)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=1600&pause=600&color=00E103&multiline=true&random=false&width=580&height=85&lines=turan%40kali%3A~%23+echo+Hello+World;turan%40kali%3A~%23+echo+Welcome+to+my+page)](https://git.io/typing-svg)
    
 
    <!--
