@@ -49,6 +49,8 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=kali" height="40" alt="kali logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=powershell" height="40" alt="powershell logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/filezilla/BF0000" height="40" alt="filezilla logo"  />
