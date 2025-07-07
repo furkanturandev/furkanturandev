@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">🏢 Computer Engineering Student at Istanbul Health and Technology University.<br>🌐 I'm based in Istanbul/Turkey.<br>💫 My interests: Cyber Security, Web, System&Network, AR.<br>🧑‍💻 I'm currently learning penetration testing and system&network.<br><br>📨 You can contact with me : <br>linkedin.com/in/furkanturandev <br>turan.fn@gmail.com</p>
+<p align="left">🏢 Computer Engineering Student at Istanbul Health and Technology University.<br>🌐 I'm based in Istanbul/Turkey.<br>💫 My interests: Cyber Security, Web, DevOps, System&Network.<br>🧑‍💻 I'm currently learning areas of penetration testing, system&network and devops.<br><br>📨 You can contact with me : <br>linkedin.com/in/furkanturandev <br>turan.fn@gmail.com</p>
 
 ###
 
